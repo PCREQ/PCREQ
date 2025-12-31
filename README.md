@@ -7,9 +7,9 @@ PCREQ is an automated tool for inferring compatible requirements for Python thir
 For PCREQ's design and implementation details, please refer to our [paper](https://arxiv.org/abs/2508.02023).
 
 ## Evaluation
-[REQBench](https://github.com/PCREQ/REQBench) Benchmark for Python Third-Party Libraries Upgrade.
+[REQBench](https://github.com/PCART-tools/REQBench) Benchmark for Python Third-Party Libraries Upgrade.
 
-PCREQ's evaluation results are available [here](https://github.com/PCREQ/PCREQ-evaluation).
+PCREQ's evaluation results are available [here](https://github.com/PCART-tools/PCREQ-evaluation).
 
 ## Usage
 ### Prerequisites
